@@ -1,1 +1,1 @@
-<iframe src="https://api.badgr.io/public/assertions/NksAXt_8R8S3QEgXNTW1HQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=teevisit.po%40invitracehealth.com" title="Badge: 30 days of Postman - for developers" style="width: 330px; height: 191px; border: 0px;"></iframe>
+[![Badge: 30 days of Postman - for developers](https://api.badgr.io/public/assertions/NksAXt_8R8S3QEgXNTW1HQ/image)](https://api.badgr.io/public/assertions/NksAXt_8R8S3QEgXNTW1HQ?embedVersion=1&embedWidth=330&embedHeight=191&identity__email=teevisit.po%40invitracehealth.com)
